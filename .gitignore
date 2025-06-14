@@ -1,0 +1,15 @@
+# Ignore directories
+downloaded_threads/
+markdown_files/
+__pycache__/
+venv/
+.venv/
+*.db-journal
+*.log
+*.tmp
+
+# Ignore files
+.env
+preprocess.py
+*.pyc
+.DS_Store
